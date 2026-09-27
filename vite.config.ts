@@ -8,5 +8,5 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
-  base: '/nmr-digital-twin-figma/',
+  base: '/nmr-digital-twin/',
 })
